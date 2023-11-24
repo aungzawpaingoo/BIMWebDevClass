@@ -78,7 +78,8 @@ you learn the CRUD operations on the database in a great manner. You can also im
 link for a sample to-do list website’s source code is below. Feel free to take inspiration from it and use your own skills and creativity to develop an amazing 
 to-do list.
 
-- [Source Code for Help ](https://github.com/Ayush-Kanduri/FullStack-Todo-List-Application) ![MIT License](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+- [Source Code for Help ](https://github.com/Ayush-Kanduri/FullStack-Todo-List-Application)
+- ![MIT License](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 
 
 
