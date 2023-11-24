@@ -37,6 +37,7 @@ If you get stuck, don't be afraid to ask for help. There are many online forums 
 Once you have some experience, start building a portfolio of your work. This will help you land your first job as a full stack web developer or mobile app developer.
 With hard work and dedication, you can learn full stack web development and mobile app development and start a career in the tech industry.
 
+
 ## Resources Links
 
 [CS50's Introduction to Computer Science from Harvard University ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
@@ -77,6 +78,7 @@ you learn the CRUD operations on the database in a great manner. You can also im
 link for a sample to-do list website’s source code is below. Feel free to take inspiration from it and use your own skills and creativity to develop an amazing 
 to-do list.
 
+![MIT License](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 - [Source Code for Help ](https://github.com/Ayush-Kanduri/FullStack-Todo-List-Application)
 
 
