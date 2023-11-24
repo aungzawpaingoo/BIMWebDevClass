@@ -57,13 +57,7 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 ![MIT License](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) [C# Development ](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
-![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![MIT License](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-![MIT License](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![MIT License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MIT License](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MIT License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [Full Stack Development Odin Project ](https://www.theodinproject.com/paths)
 
 [All of the Documentations you need in one place ](https://www.w3schools.com/)
