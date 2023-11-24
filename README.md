@@ -40,14 +40,14 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 
 ## Resources Links
-
+![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 [CS50's Introduction to Computer Science from Harvard University ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
-[HarvardX: CS50's Mobile App Development with React Native ](https://www.edx.org/learn/react-native/harvard-university-cs50-s-mobile-app-development-with-react-native)
+![MIT License](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [HarvardX: CS50's Mobile App Development with React Native ](https://www.edx.org/learn/react-native/harvard-university-cs50-s-mobile-app-development-with-react-native)
 
 ![MIT License](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MIT License](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [HTML and CSS Foundation ](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
-[JavaScript Complete Course ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+![MIT License](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [JavaScript Complete Course ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ![MIT License](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [Frontend Development ](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
@@ -55,7 +55,7 @@ With hard work and dedication, you can learn full stack web development and mobi
 
  ![MIT License](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) [Python Machine Learning ](https://www.freecodecamp.org/learn/machine-learning-with-python/) 
 
-[C# Development ](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
+![MIT License](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) [C# Development ](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
 [Full Stack Development Odin Project ](https://www.theodinproject.com/paths)
 
