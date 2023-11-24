@@ -45,13 +45,13 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 [HarvardX: CS50's Mobile App Development with React Native ](https://www.edx.org/learn/react-native/harvard-university-cs50-s-mobile-app-development-with-react-native)
 
-[HTML and CSS Foundation ](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+![MIT License](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MIT License](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [HTML and CSS Foundation ](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 [JavaScript Complete Course ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
-[Frontend Development ](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+![MIT License](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [Frontend Development ](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
-[ Backend Development ](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+![MIT License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) [ Backend Development ](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
  ![MIT License](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) [Python Machine Learning ](https://www.freecodecamp.org/learn/machine-learning-with-python/) 
 
