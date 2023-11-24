@@ -53,7 +53,8 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 [ Backend Development ](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
-[Python Machine Learning ](https://www.freecodecamp.org/learn/machine-learning-with-python/)  [MIT License](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+ ![MIT License](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[Python Machine Learning ](https://www.freecodecamp.org/learn/machine-learning-with-python/) 
 
 [C# Development ](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
