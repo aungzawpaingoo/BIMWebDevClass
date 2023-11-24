@@ -68,10 +68,16 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 
 - **Project [1] :** To-Do List Projects
+A very basic and simple project with a daily life use case is a to-do list app. A to-do list is a very popular full-stack project for beginners. You can build a to-do list, just like Microsoft’s to-do list application. It will have the feature to add an item to the list and if the task is completed then the functionality to remove it from the list should also be provided.
 
-- **Tech Stack:** HTML, CSS, JS, Express JS, Node js, MongoDB
+- The knowledge that you will gain from this project
+---------------------------------------------------------
+This project will help you enhance your front-end development skills as well as storing the items in the database and deleting them from the database will help you learn the CRUD operations on the database in a great manner. You can also implement the user login and authentication for using the to-do list app. The link for a sample to-do list website’s source code is below. Feel free to take inspiration from it and use your own skills and creativity to develop an amazing to-do list.
+  
+- [Source Code for Help ](https://github.com/Ayush-Kanduri/FullStack-Todo-List-Application)
 
-- [Documentation](https://github.com/Ayush-Kanduri/FullStack-Todo-List-Application)
+
+  
 
 -------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
