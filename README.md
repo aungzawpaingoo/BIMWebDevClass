@@ -17,25 +17,26 @@ This is the full resources for learning development and start your career as a s
 Here are some additional tips for learning full stack web development or mobile app development:
 
 [1] Start with the basics
--------------------------
+
 Don't try to learn everything at once. Start by learning the basics of HTML, CSS, and JavaScript. Once you have a solid foundation, you can move on to more advanced topics.
 
 
 [2] Practice regularly
--------------------------
+
 
 The best way to learn is to practice. Try to build a simple website or app every week. The more you practice, the better you'll become.
 
 
 [3] Don't be afraid to ask for help
--------------------------------------
+
 If you get stuck, don't be afraid to ask for help. There are many online forums and communities where you can get help from other developers.
 
 
 [4] Build a portfolio
---------------------
+
 Once you have some experience, start building a portfolio of your work. This will help you land your first job as a full stack web developer or mobile app developer.
 With hard work and dedication, you can learn full stack web development and mobile app development and start a career in the tech industry.
+
 
 
 ## Resources Links
@@ -52,7 +53,8 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 [ Backend Development ](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
-[Python Machine Learning ](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+[Python Machine Learning ![MIT License](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+ ](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
 [C# Development ](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
@@ -79,7 +81,7 @@ link for a sample to-do list website’s source code is below. Feel free to take
 to-do list.
 
 - [Source Code for Help ](https://github.com/Ayush-Kanduri/FullStack-Todo-List-Application)
-- ![MIT License](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+  ![MIT License](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 
 
 
