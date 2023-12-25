@@ -57,7 +57,6 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 ![MIT License](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) [C# Development ](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
-
 [All of the Documentations you need in one place ](https://www.w3schools.com/)
 
 
