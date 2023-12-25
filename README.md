@@ -40,7 +40,7 @@ With hard work and dedication, you can learn full stack web development and mobi
 
 
 ## Resources Links
-![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MIT License](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MIT License](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MIT License](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MIT License](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [CS50's Introduction to Computer Science from Harvard University ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 ![MIT License](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [HarvardX: CS50's Mobile App Development with React Native ](https://www.edx.org/learn/react-native/harvard-university-cs50-s-mobile-app-development-with-react-native)
